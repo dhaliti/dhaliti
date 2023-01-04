@@ -1,20 +1,24 @@
-- 👋 Hi, I’m @dhaliti
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-dhaliti/dhaliti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 # Damir H.
 
-[Your name] is a software developer with a passion for solving problems and building things.
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/105823790/210590866-1fa3825f-e1ec-41ce-9e94-bb12de317ead.png" width=900 />
+
+</div>
+
+<br><br>
+<ul>
+<li>👋 I am a Software Developer with a focus on web technologies. <br>I have experience with a variety of programming languages, including TypeScript, Java, and C#.<br> 
+I am also proficient in using frameworks such as Angular and React.</li>
+
+<li>🌱 I am currently working at Systancia, a French software company that specializes in cybersecurity, where I am developing a new feature for one of our products.</li>
+<li> 📬 Connect with me on <a href="https://linkedin.com/in/damir-haliti">LinkedIn</a>
+</ul>
 
 ## Skills
 
-<div align="center">
+
+
 <p>
     <a href="https://www.javascript.com/" target="_blank"> 
        <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> 
@@ -43,8 +47,6 @@ You can click the Preview link to take a look at your changes.
   </p>
   
   
-  
-  
   <p>
     <a href="https://reactjs.org/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/react/react-original.svg" alt="ReactJS" width="50" height="50"/>
@@ -58,16 +60,13 @@ You can click the Preview link to take a look at your changes.
         <a href="https://nestjs.com/" target="_blank"> 
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="50" height="50"/>
     </a> 
-    </a> 
         <a href="https://nestjs.com/" target="_blank"> 
            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="50" height="50"/>
     </a> 
-       </a> 
         <a href="https://srping.io/" target="_blank"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="SrpingBoot" width="50" height="50"/>
     </a> 
   </p>
-  
   
   
   <p>
@@ -90,38 +89,26 @@ You can click the Preview link to take a look at your changes.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height=50 width=50 />
   </a>
 </p>
+
 <p>
+<a href="https://tailwindcss.com/">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" height=50 width=50 />
+  </a>
+  
+   <a href="https://m3.material.io/">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="MaterialDesign" height=50 width=50 />
+  </a>
+
    <a href="https://www.adobe.com">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" height=50 width=50 />
   </a>
      <a href="https://www.adobe.com">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Illustrator" height=50 width=50 />
   </a>
+  
   <a href="https://sketchapp.com">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg" alt="Sketch" width=50 height=50 />
   </a>
   
-  <a href="https://tailwind.com">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" height=50 width=50 />
-  </a>
   
-    <a href="https://material-design.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="MaterialDesign" height=50 width=50 />
-  </a>
-  
- 
   </p>
-</div>
-
-## Latest Projects
-##
-- [Transcendance-Pong](https://github.com/dhaliti/Transcendance-Pong): A brief description of the project and its features
-- [Project 2](https://github.com/dhaliti/Swift-Hangouts): A brief description of the project and its features
-
-## Education
-
-- [Degree] in [Field] from [University] (YYYY-YYYY)
-
-## Contact
-
-[LinkedIn](https://linkedin.com/in/damir-haliti)
